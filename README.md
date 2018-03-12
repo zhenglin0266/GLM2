@@ -1,1 +1,1 @@
-# GLM2
+Write a function bootGLM(x, y, B=1000) that returns (non-simultaneous) P-values for testing the significance of each of the predictor variables (when the others are present in the model) in a logistic model. Compare with the P-values returned by the summary function.
